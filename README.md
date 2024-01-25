@@ -1,16 +1,25 @@
-### Hi there 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:27394a,100:40b882&height=100&section=header&text=&fontSize=0" width="100%"/>
 
-<!--
-**ArgeiaArgia/ArgeiaArgia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![header](https://capsule-render.vercel.app/api?type=venom&color=27394a&height=300&section=header&text=Argeia-nl-Argia&fontSize=80&fontColor=40b882&fontAlignY=35&fontAlignY=65)
 
-Here are some ideas to get you started:
+![Gondr's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArgeiaArgia&show=true&theme=vue-dark)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArgeiaArgia&theme=vue" width=94%/>
+</a>
+
+<br>
+
+## <span style="color:40b882"> 겜마고 1학년
+
+### <span style="color:40b882"> 배우는 것 
+
+<img src="https://img.shields.io/badge/Unity-27394a?style=flat-square&logo=Unity&logoColor=40b882"/>
+<img src="https://img.shields.io/badge/Csharp-27394a?style=flat-square&logo=csharp&logoColor=40b882"/>
+
+### <span style="color:40b882"> 다른 사이트
+
+<a href="https://steamcommunity.com/profiles/76561197993961725/"><img src="https://img.shields.io/badge/Steam-27394a?style=flat-square&logo=Steam&logoColor=40b882"/>
+<a href="https://mastodon.social/@ArgeiaArgia"><img src="https://img.shields.io/badge/Mastodon-27394a?style=flat-square&logo=Mastodon&logoColor=40b882"/>
+
+<br><img src="https://capsule-render.vercel.app/api?type=rect&color=0:27394a,100:40b882&height=40&section=footer&text=&fontSize=0" width="100%"/>
