@@ -8,8 +8,6 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArgeiaArgia&theme=vue" width=94%/>
 </a>
 
-<br>
-
 ## <span style="color:40b882"> 겜마고 1학년
 #### <span style="color:40b882"> 모르는 것 많음!!
 
@@ -18,9 +16,4 @@
 <img src="https://img.shields.io/badge/Unity-27394a?style=flat-square&logo=Unity&logoColor=40b882"/>
 <img src="https://img.shields.io/badge/Csharp-27394a?style=flat-square&logo=csharp&logoColor=40b882"/>
 
-### <span style="color:40b882"> 다른 사이트
-
-<a href="https://steamcommunity.com/profiles/76561197993961725/"><img src="https://img.shields.io/badge/Steam-27394a?style=flat-square&logo=Steam&logoColor=40b882"/>
-<a href="https://mastodon.social/@ArgeiaArgia"><img src="https://img.shields.io/badge/Mastodon-27394a?style=flat-square&logo=Mastodon&logoColor=40b882"/>
-
-<br><img src="https://capsule-render.vercel.app/api?type=rect&color=0:27394a,100:40b882&height=40&section=footer&text=&fontSize=0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:27394a,100:40b882&height=40&section=footer&text=&fontSize=0" width="100%"/>
