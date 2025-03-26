@@ -8,7 +8,7 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArgeiaArgia&theme=vue" width=94%/>
 </a>
 
-## <span style="color:40b882"> 겜마고 1학년
+## <span style="color:40b882"> 겜마고 2학년
 #### <span style="color:40b882"> 모르는 것 많음!!
 
 ### <span style="color:40b882"> 배우는 것 
